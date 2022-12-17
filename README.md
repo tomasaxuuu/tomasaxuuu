@@ -15,6 +15,3 @@
 
 ## My Profile: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomasaxuuu&theme=solarized_dark)
-
-## Github stats
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tomasaxuuu)](https://github.com/ashutosh00710/github-readme-activity-graph)
